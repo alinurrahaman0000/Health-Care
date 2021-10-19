@@ -1,0 +1,23 @@
+.border {
+  border-bottom: 5px solid cadetblue;
+}
+.contact-text {
+  width: 350px;
+  margin: 0 auto;
+}
+.phone {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 6px;
+  background-color: rgb(167, 175, 158);
+}
+.map {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 6px;
+}
+
+.maps img {
+  width: 600px;
+  height: 350px;
+}

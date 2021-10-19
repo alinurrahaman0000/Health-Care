@@ -1,0 +1,22 @@
+.header a {
+  margin-right: 25px;
+  text-decoration: none;
+  font-weight: bolder;
+  color: rgb(211, 117, 117);
+  text-transform: uppercase;
+}
+.header a:hover {
+  color: black;
+  background-color: tomato;
+  border-radius: 5px;
+}
+
+.header {
+  background-color: rgba(0, 0, 139, 0.287);
+  height: 60px;
+}
+img {
+  width: 233px;
+  height: auto;
+  margin-right: 83px;
+}

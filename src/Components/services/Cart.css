@@ -1,0 +1,13 @@
+.card img {
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+.card img:hover {
+  transform: scale(0.95);
+}
+
+.card {
+  background-color: rgba(219, 219, 216, 0.267);
+  border-radius: 11px;
+}
